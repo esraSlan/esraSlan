@@ -4,7 +4,7 @@
 👀 I’m interested in IT 🌍 
 
 🌱 Esra's skills:
-Core Java, Selenium, Cucumber, JUnit, TestNG, Git,Github, SDLC, HTML&CSS, API, SQL, Java Script, Jenkins, Lambda, JDBC
+Core Java, Selenium, Cucumber, JUnit, TestNG, SDLC, HTML&CSS, API/RESTFULL, POSTMAN, SQL , Jenkins, Lambda, JDBC, JIRA/XRAY
  
 
 🧠 “The human mind is an open network of complex softwares working together.”
@@ -12,7 +12,7 @@ Core Java, Selenium, Cucumber, JUnit, TestNG, Git,Github, SDLC, HTML&CSS, API, S
 
   In that case; software wouldn't be bad for understanding the brain, right?
 
-📫 How to reach me: aslanesra035@gmail.com and https://www.linkedin.com/in/esra-karaarslan-32a361233/
+📫 How to reach me: aslanesra035@gmail.com and https://www.linkedin.com/in/esrakaraarslan/
 
 
 
